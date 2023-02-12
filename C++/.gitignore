@@ -2,4 +2,5 @@
 *.exe
 PDF/
 /.vscode
-/C++(VS)
+/.vs
+/test.cpp
