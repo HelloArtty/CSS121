@@ -1,5 +1,12 @@
 การบ้าน/
-*.exe
 PDF/
-/.vscode
 /C++(VS)
+*.exe
+*test.cpp
+*test2.cpp
+*.vs
+*.vscode
+*myMBTI.csv
+*message_2.cpp
+*Knn.cpp
+*MBTItable.txt
