@@ -13,7 +13,7 @@ struct Friend {
 
 int main()
 {
-    struct Friend datafriends[54];
+    struct Friend datafriends[65];
     struct Friend me;
     
     string number, name, sex, ne, ni, te, ti, se, si, fe, fi, type, enneagram , nickname;

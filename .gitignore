@@ -4,9 +4,15 @@ PDF/
 *.exe
 *test.cpp
 *test2.cpp
+*test3.cpp
+*test4.cpp
 *.vs
 *.vscode
 *myMBTI.csv
 *message_2.cpp
+*message_3.cpp
 *Knn.cpp
 *MBTItable.txt
+*MBTItable2.txt
+*1MBTI.csv
+*output
